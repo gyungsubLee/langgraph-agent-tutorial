@@ -61,7 +61,7 @@ TAVILY_API_KEY=tvly-xxxxxxxxxxxx
 jupyter notebook
 
 # 또는 Python 파일 실행
-python agent.py
+python conv/agent.py # conv 폴더 확인
 ```
 
 ## 📁 프로젝트 구조
